@@ -19,7 +19,7 @@ A comprehensive Pokemon database web application built with React and Vite, feat
 
 ## 🚀 Live Demo
 
-Visit [PokeDexPro] ([http://pokedexproplus.netlify.app](http://pokedexproplus.netlify.app/)) to see the live application.
+Visit [PokeDexPro] ([https://chirag-pokedexproplus.netlify.app/]) to see the live application.
 
 ## 🛠️ Technologies Used
 
